@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<com.airbnb.lottie.LottieAnimationView
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:scaleType="fitXY"
+    app:lottie_autoPlay="true"
+    app:lottie_loop="true"
+    app:lottie_rawRes="@raw/background"/>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:orientation="vertical">
+<ImageView
+    android:layout_width="@dimen/_180sdp"
+    android:layout_height="@dimen/_180sdp"
+    android:src="@drawable/aast"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/_15sdp"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:text="Academy Foods is an application for AAST Students that can make an easily connection between student and all restaurants."
+            android:textColor="@color/white"
+            android:textSize="@dimen/_12sdp"
+            android:textStyle="normal" />
+
+    </LinearLayout>
+
+</FrameLayout>

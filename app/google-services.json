@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332462011551",
+    "project_id": "academy-foods",
+    "storage_bucket": "academy-foods.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332462011551:android:443a5a8477bf9c652b1eaa",
+        "android_client_info": {
+          "package_name": "com.academyfoods.www"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332462011551-qumb1j2ck86tgi6fbsr793ll777catgu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.academyfoods.www",
+            "certificate_hash": "b5550e66f543334e5ff0e8603ec1ee144a6dc9af"
+          }
+        },
+        {
+          "client_id": "332462011551-50e889q3i0bf9enpok7nq3pg9gpm1krr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHEGe77mJh5rjcQJJThtCb4vA34Mx86XA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332462011551-50e889q3i0bf9enpok7nq3pg9gpm1krr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
